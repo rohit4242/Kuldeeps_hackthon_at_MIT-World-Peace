@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "What are the symptoms of preeclampsia?",
+    "output": "Preeclampsia symptoms include high blood pressure, swelling in the hands and face, headaches, blurred vision, upper abdominal pain, and protein in urine. It's a serious pregnancy complication that requires immediate medical attention."
+  },
+  {
+    "instruction": "How can I manage morning sickness during pregnancy?",
+    "output": "To manage morning sickness: 1) Eat small, frequent meals, 2) Avoid triggering foods and smells, 3) Try ginger tea or supplements, 4) Stay hydrated, 5) Consider vitamin B6 supplements after consulting your doctor, 6) Get plenty of rest, 7) Try acupressure wristbands, 8) Consult your healthcare provider if symptoms are severe."
+  },
+  {
+    "instruction": "What are the signs of postpartum depression?",
+    "output": "Signs of postpartum depression include: persistent sadness, severe mood swings, withdrawal from family, difficulty bonding with the baby, changes in appetite, intense irritability, severe anxiety, panic attacks, thoughts of harming yourself or the baby, and overwhelming fatigue. It's important to seek professional help immediately if experiencing these symptoms."
+  },
+  {
+    "instruction": "How to handle Braxton Hicks contractions?",
+    "output": "For Braxton Hicks contractions: 1) Change positions or activity level, 2) Stay hydrated and drink water, 3) Practice relaxation techniques and deep breathing, 4) Empty your bladder, 5) Take a warm bath. Contact your healthcare provider if contractions become regular, increase in intensity, are accompanied by pain or bleeding, or occur before 37 weeks."
+  },
+  {
+    "instruction": "What are safe exercises during pregnancy?",
+    "output": "Safe pregnancy exercises include walking, swimming, stationary cycling, modified yoga and pilates, and low-impact aerobics. Always get healthcare provider approval first. Focus on maintaining fitness rather than weight loss or intense training. Avoid activities with falling risks, contact sports, high-altitude exercises, hot yoga, and exercises requiring lying flat on your back after the first trimester."
+  },
+  {
+    "instruction": "How to relieve back pain during pregnancy?",
+    "output": "To relieve pregnancy back pain: 1) Maintain good posture, 2) Wear supportive shoes and maternity support belt, 3) Apply heat and cold packs, 4) Try prenatal massage or physical therapy, 5) Do gentle stretching and strengthening exercises approved by your doctor, 6) Sleep on your side with pillows between knees, 7) Avoid lifting heavy objects, 8) Consider acupuncture after provider approval."
+  },
+  {
+    "instruction": "What are the warning signs during pregnancy that require immediate medical attention?",
+    "output": "Seek immediate medical attention for: vaginal bleeding, severe abdominal pain, severe headache with vision changes, fever over 100.4°F, rapid swelling of face/hands, decreased fetal movement, painful urination, persistent vomiting, seizures, thoughts of harming yourself, clear fluid leaking from vagina, and regular contractions before 37 weeks."
+  },
+  {
+    "instruction": "How to prepare for breastfeeding?",
+    "output": "To prepare for breastfeeding: 1) Learn about breastfeeding through classes or support groups, 2) Talk with lactation consultants or healthcare providers, 3) Get necessary supplies like nursing bras and breast pads, 4) Set up a comfortable nursing area, 5) Consider a breast pump, 6) Understand proper latch techniques, 7) Know common challenges and resources for help, 8) Arrange support from family members."
+  },
+  {
+    "instruction": "What helps with pregnancy-related constipation?",
+    "output": "For pregnancy constipation: 1) Increase fiber intake with fruits, vegetables, and whole grains, 2) Stay well-hydrated, 3) Regular physical activity, 4) Establish a bathroom routine, 5) Consider fiber supplements after consulting your doctor, 6) Avoid iron supplements if possible (discuss alternatives), 7) Try prune juice, 8) Ask your healthcare provider about safe stool softeners if needed."
+  },
+  {
+    "instruction": "How to manage gestational diabetes?",
+    "output": "To manage gestational diabetes: 1) Follow a balanced, controlled-carbohydrate diet designed by a nutritionist, 2) Monitor blood sugar levels regularly as directed, 3) Engage in moderate, approved physical activity, 4) Take insulin or medications if prescribed, 5) Attend all prenatal appointments for monitoring, 6) Keep detailed records of blood sugar, food, and activity, 7) Learn to recognize and treat low blood sugar."
+  }
+] 
