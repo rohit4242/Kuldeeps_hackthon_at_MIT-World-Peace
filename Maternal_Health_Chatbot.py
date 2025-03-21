@@ -206,7 +206,7 @@ tensorrt_image = (  # update the image by quantizing the model
 # we set the batch size to the largest value we can fit in GPU RAM.
 # Quantization helps us again here, since it allows us to fit more tokens in the same RAM.
 
-MAX_INPUT_LEN, MAX_OUTPUT_LEN = 256, 256
+MAX_INPUT_LEN, MAX_OUTPUT_LEN = 2048, 256
 MAX_NUM_TOKENS = 2**17
 MAX_BATCH_SIZE = (
     1024  # better throughput at larger batch sizes, limited by GPU RAM
@@ -247,12 +247,14 @@ tensorrt_image = (  # update the image by building the TensorRT engine
 
 app = modal.App(
     f"maternal-health-chatbot-{MODEL_ID.split('/')[-1]}", image=tensorrt_image
+
 )
 
 
 @app.cls(
     gpu=GPU_CONFIG,
     image=tensorrt_image,
+    container_idle_timeout=5*60
 )
 class Model:
     @modal.enter()
